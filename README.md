@@ -30,9 +30,6 @@ Ideal para:
 - T-SQL
 - Dynamic SQL
 
-Tecnologias relacionadas:
-- :contentReference[oaicite:0]{index=0}
-
 ---
 
 # Estrutura do Projeto
@@ -44,14 +41,6 @@ sqlserver-column-search/
 ├── procedures/
 │   └── sp_search_columns.sql
 │
-├── examples/
-│   └── execution_examples.sql
-│
-├── docs/
-│   └── technical_details.md
-│
-└── images/
-    └── execution.png
 ```
 
 ---
